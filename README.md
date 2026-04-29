@@ -1,6 +1,6 @@
 # All Restaurants in Citrus Heights, California, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `119895` |
 | Location | Citrus Heights |
 | Category | Restaurants |
-| Full dataset size | 227 records |
-| Free sample size | 22 records (9.69%) |
-| Last export | 2026-04-21T20:33:17.945626+00:00 |
+| Full dataset size | 277 records |
+| Free sample size | 27 records (9.75%) |
+| Last export | 2026-04-28T22:16:06.932426+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-citrus-heights-california-us-sample-119895/releases/download/sample-latest/beamstation_119895_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
