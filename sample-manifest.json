@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e641cf27-3757-43bc-a610-33648f5da1b9",
+  "export_job_id": "cf733f38-e7f9-4d5c-9cb2-6cf87c965aed",
   "id_short": 119895,
-  "published_at": "2026-04-29T07:10:46Z",
+  "published_at": "2026-05-08T07:01:09Z",
   "repo_name": "all-restaurants-in-citrus-heights-california-us-sample-119895",
   "sample_asset_name": "beamstation_119895_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/119895/beamstation_119895_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "6b1fe22937fc006bbbb10fa64d1622c3ae48f89dc21536874f86e329bb5224b7",
-  "sample_size_bytes": 110879,
-  "total_records": 277
+  "sample_records": 28,
+  "sample_sha256": "d67b17cec4af8009203f9c1d067d3c275db06d34fcb19d98c4250008f9628c2a",
+  "sample_size_bytes": 118750,
+  "total_records": 285
 }
